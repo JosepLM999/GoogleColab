@@ -8,7 +8,7 @@ Esta política explica cómo se tratan los datos personales al utilizar **Futbol
 
 ## 1. Responsable y contacto
 
-Responsable del servicio: **elgtet**, titular del proyecto Futbolandia y nombre público del desarrollador en Google Play. Consultas de privacidad, derechos y solicitudes de supresión: [josep.lopez.marin@gmail.com](mailto:josep.lopez.marin@gmail.com).
+Responsable del servicio: **elgtet**, titular del proyecto Futbolandia y nombre público del desarrollador en Google Play. Consultas de privacidad, derechos y solicitudes de supresión: [mundolandia68@gmail.com](mailto:mundolandia68@gmail.com).
 
 ## 2. Datos que podemos tratar
 
@@ -58,7 +58,7 @@ Se aplican controles de acceso, autenticación y medidas técnicas y organizativ
 
 Puedes solicitar acceso, rectificación, supresión, oposición, limitación o portabilidad, cuando sean aplicables, y retirar tu consentimiento sin afectar a tratamientos anteriores válidos. También puedes solicitar la eliminación de tu cuenta y de los datos asociados, sujetos a las excepciones legales.
 
-Envía la solicitud a [josep.lopez.marin@gmail.com](mailto:josep.lopez.marin@gmail.com), indicando la cuenta afectada y el derecho que quieres ejercer. Podremos solicitar una verificación razonable de identidad para proteger tu información. Si consideras que se han vulnerado tus derechos, puedes reclamar ante la [Agencia Española de Protección de Datos (AEPD)](https://www.aepd.es/).
+Envía la solicitud a [mundolandia68@gmail.com](mailto:mundolandia68@gmail.com), indicando la cuenta afectada y el derecho que quieres ejercer. Podremos solicitar una verificación razonable de identidad para proteger tu información. Si consideras que se han vulnerado tus derechos, puedes reclamar ante la [Agencia Española de Protección de Datos (AEPD)](https://www.aepd.es/).
 
 ## 8. Menores y comunicaciones
 
@@ -70,5 +70,5 @@ Podemos actualizar esta política si cambian las funcionalidades, proveedores o 
 
 ## 10. Contacto
 
-Para consultas sobre privacidad o para ejercer tus derechos: [josep.lopez.marin@gmail.com](mailto:josep.lopez.marin@gmail.com).
+Para consultas sobre privacidad o para ejercer tus derechos: [mundolandia68@gmail.com](mailto:mundolandia68@gmail.com).
 
